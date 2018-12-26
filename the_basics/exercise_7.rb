@@ -1,0 +1,1 @@
+# The error messages tells the user a round bracked was used instead of a curly bracket at the end of the current expression. Most likely a hash was opened correctly but then closed with a round bracket.
